@@ -1,0 +1,15 @@
+1) After Downloading zip file extract the file in xampp/htdocs/.. extract inside htdocs folder.
+
+2) Start the xampp Apache and MySQL.
+
+3) Open chrome and Open the phpmyadmin.
+
+4) Create database with name  dbshield.
+
+5) Import the file from xampp/htdocs/loginpage_CI_Shield.
+
+6) Open the VS Code and open the folder loginpage_CI_Shield.
+
+7) Open the New terminal and run php spark serve --port 1010
+
+8) Register with your details and login
